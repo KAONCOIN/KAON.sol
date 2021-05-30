@@ -1,0 +1,2 @@
+# KAON.sol
+ Kaon contract
